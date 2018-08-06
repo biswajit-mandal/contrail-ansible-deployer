@@ -69,7 +69,7 @@ will not be installed.
   topology
 ```
 
-Please check [Enable/Disable Contrail Analytics Components](https://github.com/biswajit-mandal/contrail-ansible-deployer/blob/master/README.md#enablediable-contrail-analytics-components) Section to enable these services.
+Please check [Enable/Disable Contrail Analytics Components](https://github.com/biswajit-mandal/contrail-ansible-deployer/blob/master/README.md#enabledisable-contrail-analytics-components) Section to enable these services.
 
 ## Prerequisites
 
